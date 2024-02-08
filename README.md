@@ -1,3 +1,3 @@
 # Бейдж
 
-[![Build status](https://ci.appveyor.com/api/projects/status/dql3b75y2amhjot1?svg=true)](https://ci.appveyor.com/project/byzyka/ci-template-map)
+[![Build status](https://ci.appveyor.com/api/projects/status/r4fpjr2yl706jky2?svg=true)](https://ci.appveyor.com/project/byzyka/map)
